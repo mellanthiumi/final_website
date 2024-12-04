@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Black Smooth Leather Fang Bag",
+      "description": "Элегантная черная кожаная сумка",
+      "price": 119000,
+      "image": "html/images/products/IMG_9416.WEBP",
+      "category": "bags"
+    },
+    {
+      "id": 2,
+      "name": "Red Grained Leather Fang Bag",
+      "description": "Красная кожаная сумка с фактурой",
+      "price": 119000,
+      "image": "html/images/products/IMG_9417.WEBP",
+      "category": "bags"
+    },
+    {
+      "id": 3,
+      "name": "Black Single-Breasted Wool Coat",
+      "description": "Черное шерстяное пальто",
+      "price": 199000,
+      "image": "html/images/products/IMG_9418.WEBP",
+      "category": "outerwear"
+    },
+    {
+      "id": 4,
+      "name": "Elegant Evening Dress",
+      "description": "Элегантное вечернее платье",
+      "price": 159000,
+      "image": "html/images/products/IMG_9419.WEBP",
+      "category": "dresses"
+    },
+    {
+      "id": 5,
+      "name": "Designer Leather Jacket",
+      "description": "Дизайнерская кожаная куртка",
+      "price": 179000,
+      "image": "html/images/products/IMG_9420.WEBP",
+      "category": "outerwear"
+    },
+    {
+      "id": 6,
+      "name": "Silk Evening Gown",
+      "description": "Шелковое вечернее платье",
+      "price": 229000,
+      "image": "html/images/products/IMG_9421.WEBP",
+      "category": "dresses"
+    },
+    {
+      "id": 7,
+      "name": "Classic White Blouse",
+      "description": "Классическая белая блузка",
+      "price": 69000,
+      "image": "html/images/products/IMG_9422.WEBP",
+      "category": "tops"
+    },
+    {
+      "id": 8,
+      "name": "Structured Blazer",
+      "description": "Структурированный блейзер",
+      "price": 149000,
+      "image": "html/images/products/IMG_9423.WEBP",
+      "category": "outerwear"
+    },
+    {
+      "id": 9,
+      "name": "Pleated Midi Skirt",
+      "description": "Плиссированная юбка миди",
+      "price": 89000,
+      "image": "html/images/products/IMG_9424.WEBP",
+      "category": "skirts"
+    },
+    {
+      "id": 10,
+      "name": "Black Capri Pants",
+      "description": "Черные брюки капри",
+      "price": 89000,
+      "image": "html/images/products/IMG_9425.WEBP",
+      "category": "pants"
+    },
+    {
+      "id": 11,
+      "name": "Cashmere Sweater",
+      "description": "Кашемировый свитер",
+      "price": 129000,
+      "image": "html/images/products/IMG_9427.WEBP",
+      "category": "knitwear"
+    },
+    {
+      "id": 12,
+      "name": "Leather Mini Skirt",
+      "description": "Кожаная мини-юбка",
+      "price": 99000,
+      "image": "html/images/products/IMG_9428.WEBP",
+      "category": "skirts"
+    },
+    {
+      "id": 13,
+      "name": "Silk Camisole",
+      "description": "Шелковый топ",
+      "price": 59000,
+      "image": "html/images/products/IMG_9429.WEBP",
+      "category": "tops"
+    },
+    {
+      "id": 14,
+      "name": "Slim Fit Capri Pants",
+      "description": "Зауженные брюки капри",
+      "price": 89000,
+      "image": "html/images/products/IMG_9425 2.WEBP",
+      "category": "pants"
+    },
+    {
+      "id": 15,
+      "name": "Classic Black Blazer",
+      "description": "Классический черный блейзер",
+      "price": 149000,
+      "image": "html/images/products/IMG_9423.WEBP",
+      "category": "outerwear"
+    },
+    {
+      "id": 16,
+      "name": "Elegant White Blouse",
+      "description": "Элегантная белая блузка",
+      "price": 69000,
+      "image": "html/images/products/IMG_9422.WEBP",
+      "category": "tops"
+    }
+  ]
+}
